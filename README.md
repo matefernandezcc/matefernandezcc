@@ -4,8 +4,8 @@ I am a Systems Engineering student at the <a href="https://www.frba.utn.edu.ar/"
 I love learning new things and keep training myself in the programming field.
 I am a resolute, organized, perseverant, self-taught and eager to keep learning.
 
-Contact and more information about me.
 <br> <br>
+Contact and more information about me.
 </p>
 <p>
     <a target="_blank" href="mailto:matefernandezc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> 
