@@ -22,6 +22,6 @@ Contact and more information about me.
     <img src="https://img.shields.io/badge/-React%20Js-20232A?style=flat-square&logo=react&logoColor=61DAFB"></img>
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></img>
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></img>
-    [![Python](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true)](https://www.python.org/)
+    <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw"></img>
 
 </p>
