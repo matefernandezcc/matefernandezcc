@@ -22,6 +22,6 @@ Contact and more information about me.
     <img src="https://img.shields.io/badge/-React%20Js-20232A?style=flat-square&logo=react&logoColor=61DAFB"></img>
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></img>
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></img>
-    <img src="https://www.python.org/static/community_logos/python-logo.png" alt= “” width="45" height="20">></img>
+    <img src="https://www.python.org/static/community_logos/python-logo.png" alt= “” width="45" height="20"></img>
 
 </p>
