@@ -1,10 +1,10 @@
 # ¡Hola! Soy Mateo Fernandez </a>👋</h1>
 <p>
 Soy estudiante de Ingeniería en Sistemas de Información en la <a href="https://www.frba.utn.edu.ar/">Universidad Tecnológica Nacional - FRBA.</a> <br>
-Me encanta aprender cosas nuevas y seguir formándome en el campo de la programación y también tengo interés en la parte cloud.<br> 
-Soy una persona resolutiva, organizada,  perseverante, autodidacta y con grandes ganas de trabajar y seguir aprendiendo.
+Me encanta aprender cosas nuevas y seguir formándome en el campo de la programación.<br> 
+Soy una persona resolutiva, organizada,  perseverante, autodidacta y con ganas de seguir aprendiendo.
 <br> <br>
-Más información sobre mí.
+Contacto y más información sobre mí.
 </p>
 <p>
     <a target="_blank" href="mailto:matefernandezc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> 
