@@ -3,7 +3,6 @@
 I am a Systems Engineering student at the <a href="https://www.frba.utn.edu.ar/"> National Technological University of Buenos Aires - FRBA.</a><br>
 I love learning new things and keep training myself in the programming field.
 I am a resolute, organized, perseverant, self-taught and eager to keep learning.
-
 <br> <br>
 Contact and more information about me.
 </p>
