@@ -1,8 +1,7 @@
 # Hi! 👋 I'm Mateo Fernandez </a></h1>
 <p>
 I am a Information Systems Engineer Student at the <a href="https://www.frba.utn.edu.ar/"> National Technological University of Buenos Aires - FRBA.</a><br>
-I love learning new things and keep training myself in the programming field.
-I am a resolute, organized, perseverant, self-taught and eager to keep learning.
+I love to learn new things and keep training myself in the programming field. I also love to study mathematics in my spare time with MIT OCW lectures. I am a resolute, organized, perseverant, self-taught and a fast learner person.
 <br> <br>
 Contact and more information about me.
 </p>
