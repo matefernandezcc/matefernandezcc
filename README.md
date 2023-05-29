@@ -1,4 +1,4 @@
-# Hi! I'm Mateo Fernandez </a>🇦🇷</h1>
+# Hi! I'm Mateo Fernandez </a>🎓</h1>
 <p>
 I am a Information Systems Engineer Student at the <a href="https://www.frba.utn.edu.ar/"> National Technological University of Buenos Aires - FRBA.</a><br>
 I love learning new things and keep training myself in the programming field.
