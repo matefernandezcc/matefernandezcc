@@ -18,8 +18,6 @@ Contact and more information about me.
     <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" ></img>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></img>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"></img>
-    <img src="https://img.shields.io/badge/-MySQL-%23008080.svg??style=flat-square&logo=mysql&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/-React%20Js-20232A?style=flat-square&logo=react&logoColor=61DAFB"></img>
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></img>
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"></img>
     <img src="https://www.python.org/static/community_logos/python-logo.png" alt= “” width="45" height="20"></img>
