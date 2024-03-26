@@ -13,7 +13,6 @@ Contact and more information about me.
 
 ## IT Knowledge 💻
 <p>
-    <img src="https://camo.githubusercontent.com/8388931ce4b7c34ed65045a5c1f236ae419235e3368b074ea37e0516c77983ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3030353939433f7374796c653d666c61742d737175617265266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465"></img>
     <img src="https://img.shields.io/badge/--black?style=flat-square&logo=c"></img>
     <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" ></img>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></img>
