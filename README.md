@@ -43,7 +43,7 @@ I love to learn new things and keep training myself in the programming field. I 
             className="w-auto h-50"
           />
 </p>
-<br>
+<hr>
 <h3>Now Playing — Spotify 🎧</h3>
 <p>
 <a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=31bnmctm3e2sppt5sr3okumjjrye&redirect=true">
