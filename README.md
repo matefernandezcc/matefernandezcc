@@ -26,7 +26,7 @@ Hobbies: Math, Cooking, Gaming
   <img alt="#CCCCCC" src="https://via.placeholder.com/15/CCCCCC/FFFFFF?text=+" width="25" height="20" />
   <img alt="#FFFFFF" src="https://via.placeholder.com/15/FFFFFF/000000?text=+" width="25" height="20" />
 </p>
-<br>
+<br><br>
 <hr>
 <h1>Hi! 👋 I'm Mateo Fernandez </a></h1>
 <p>
@@ -42,3 +42,5 @@ I love to learn new things and keep training myself in the programming field. I 
             className="w-auto h-50"
           />
 </p>
+<br>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bnmctm3e2sppt5sr3okumjjrye&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
