@@ -8,14 +8,14 @@
 ```csharp
 matefernandezcc@github
 -------------------------
-OS:  Ubuntu 22.04.4 LTS
-Shell: bash 5.1.16
-Location: Buenos Aires, Argentina
-Frameworks: React, Nextjs
-Languages: Python, JavaScript, C
-           HTML, CSS
-Learning: PostgreSQL, R
-Hobbies: Math, Cooking, Gaming
+<p style="color: blue;">OS:</p> Ubuntu 22.04.4 LTS<br>
+<p style="color: blue;">Shell:</p> bash 5.1.16<br>
+<p style="color: blue;">Location:</p> Buenos Aires, Argentina<br>
+<p style="color: blue;">Frameworks:</p> React, Nextjs<br>
+<p style="color: blue;">Languages:</p> Python, JavaScript, C<br>
+<p style="color: blue;">HTML:</p> HTML, CSS<br>
+<p style="color: blue;">Learning:</p> PostgreSQL, R<br>
+<p style="color: blue;">Hobbies:</p> Math, Cooking, Gaming
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
