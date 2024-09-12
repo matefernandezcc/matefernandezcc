@@ -2,10 +2,10 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+<img align="left" src="https://styles.redditmedia.com/t5_29f9pu/styles/profileIcon_0vh9tlyyjhx61.jpg" alt="Old Blue Eyes" width="320" /> 
 
 ```csharp
-anordinaryusername@github
+matefernandezcc@github
 -------------------------
 OS:  Ubuntu 22.04.4 LTS
 Shell: bash 5.1.16
