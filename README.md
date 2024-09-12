@@ -35,6 +35,7 @@ I love to learn new things and keep training myself in the programming field. I 
 <br> <br>
 
 ## IT Knowledge 💻
+<br>
 <p align="center">
     <img 
             src="https://skillicons.dev/icons?i=linux,notion,md,py,postgres,js,html,css,nodejs,react,git,github,c,cpp"
