@@ -32,7 +32,7 @@ Hobbies: Math, Cooking, Gaming
 <p>
 I am an Information Systems Engineering student at the <a href="https://www.frba.utn.edu.ar/">National Technological University of Buenos Aires - FRBA.</a><br>
 I love to learn new things and keep training myself in the programming field. I also enjoy studying mathematics in my spare time with MIT OCW lectures. I am a resolute, organized, perseverant, self-taught, and fast learner.
-<br> <hr>
+<br> <br>
 
 ## IT Knowledge 💻
 <br>
@@ -47,6 +47,6 @@ I love to learn new things and keep training myself in the programming field. I 
 <h3>Now Playing — Spotify 🎧</h3>
 <p>
 <a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=31bnmctm3e2sppt5sr3okumjjrye&redirect=true">
-<img src=”https://spotify-github-profile.vercel.app/api/view.svg?uid=31bnmctm3e2sppt5sr3okumjjrye&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
+<img src=”[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bnmctm3e2sppt5sr3okumjjrye&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)"/>
 </a>
 </p>
