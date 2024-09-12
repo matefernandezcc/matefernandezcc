@@ -2,7 +2,8 @@
 > neofetch
 ```
 
-<img align="left" src="https://styles.redditmedia.com/t5_29f9pu/styles/profileIcon_0vh9tlyyjhx61.jpg" alt="Old Blue Eyes" width="320" /> 
+<img align="left" src="https://styles.redditmedia.com/t5_29f9pu/styles/profileIcon_0vh9tlyyjhx61.jpg" alt="Old Blue Eyes" width="320" height="320" />
+
 
 ```csharp
 matefernandezcc@github
