@@ -7,19 +7,14 @@
 ```csharp
 anordinaryusername@github
 -------------------------
-OS: Arch Linux x86_64
-Shell: zsh 5.8
-Pronouns: He/Him
-Location: Artesia, CA
-Frameworks: React
-Languages: JavaScript, TypeScript,
+OS:  Ubuntu 22.04.4 LTS
+Shell: bash 5.1.16
+Location: Buenos Aires, Argentina
+Frameworks: React, Nextjs
+Languages: Python, JavaScript, C
            HTML, CSS
-Learning: Node.js, Express, PostgreSQL,
-          Three.js, CPP
-Hobbies: Gardening, Cooking, Gaming
-Commits: 968
-Stars: 14
-Discord: RandomPotato#1377
+Learning: PostgreSQL, R
+Hobbies: Math, Cooking, Gaming
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
