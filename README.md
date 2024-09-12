@@ -29,18 +29,11 @@ Hobbies: Math, Cooking, Gaming
 <br>
 <hr>
 <br>
-# Hi! 👋 I'm Mateo Fernandez </a></h1>
+<h1>Hi! 👋 I'm Mateo Fernandez </a></h1>
 <p>
 I am an Information Systems Engineering student at the <a href="https://www.frba.utn.edu.ar/">National Technological University of Buenos Aires - FRBA.</a><br>
 I love to learn new things and keep training myself in the programming field. I also enjoy studying mathematics in my spare time with MIT OCW lectures. I am a resolute, organized, perseverant, self-taught, and fast learner.
 <br> <br>
-Contact and more information about me.
-</p>
-<p align="center">
-    <a target="_blank" href="mailto:matefernandezc@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light"></img></a> 
-    <a target="_blank" href="https://www.linkedin.com/in/mateo-fernandez-14b625265/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light"></img></a> 
-    
-</p>
 
 ## IT Knowledge 💻
 <p align="center">
