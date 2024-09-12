@@ -43,7 +43,7 @@ I love to learn new things and keep training myself in the programming field. I 
             className="w-auto h-50"
           />
 </p>
-<h2>Now Playing — Spotify 🎧</h2>
+<h2>Spotify & Leetcode 🎧</h2>
 
 <table width="100%">
   <tr>
