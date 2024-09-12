@@ -44,4 +44,9 @@ I love to learn new things and keep training myself in the programming field. I 
           />
 </p>
 <hr>
-<h3>Now Playing — Spotify 🎧</h3> <p> <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31bnmctm3e2sppt5sr3okumjjrye&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" target="_blank"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bnmctm3e2sppt5sr3okumjjrye&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile"/> </a> </p> ```
+<h3>Now Playing — Spotify 🎧</h3> 
+<p aling="center"> 
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31bnmctm3e2sppt5sr3okumjjrye&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" target="_blank"> 
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bnmctm3e2sppt5sr3okumjjrye&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile"/> 
+</a> 
+</p>
