@@ -28,7 +28,6 @@ Hobbies: Math, Cooking, Gaming
 </p>
 <br>
 <hr>
-<br>
 <h1>Hi! 👋 I'm Mateo Fernandez </a></h1>
 <p>
 I am an Information Systems Engineering student at the <a href="https://www.frba.utn.edu.ar/">National Technological University of Buenos Aires - FRBA.</a><br>
