@@ -43,7 +43,6 @@ I love to learn new things and keep training myself in the programming field. I 
             className="w-auto h-50"
           />
 </p>
-<hr>
 <h2>Now Playing — Spotify 🎧</h2> 
 <p align="center"> 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31bnmctm3e2sppt5sr3okumjjrye&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" target="_blank"> 
