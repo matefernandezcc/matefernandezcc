@@ -45,16 +45,15 @@ I love to learn new things and keep training myself in the programming field. I 
 </p>
 <h2>Now Playing — Spotify 🎧</h2>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <div style="flex: 1; text-align: left;">
-    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31bnmctm3e2sppt5sr3okumjjrye&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" target="_blank">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bnmctm3e2sppt5sr3okumjjrye&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile" style="width: 300px; height: auto;"/>
-    </a>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://leetcard.jacoblin.cool/matefernandezcc?animation=false" alt="LeetCard" style="width: 300px; height: auto;"/>
-  </div>
-</div>
-
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bnmctm3e2sppt5sr3okumjjrye&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile" width="300"/>
+    </td>
+    <td align="right">
+      <img src="https://leetcard.jacoblin.cool/matefernandezcc?animation=false" alt="LeetCard" width="300"/>
+    </td>
+  </tr>
+</table>
 
 
