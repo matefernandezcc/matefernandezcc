@@ -32,7 +32,7 @@ Hobbies: Math, Cooking, Gaming
 <p>
 I am an Information Systems Engineering student at the <a href="https://www.frba.utn.edu.ar/">National Technological University of Buenos Aires - FRBA.</a><br>
 I love to learn new things and keep training myself in the programming field. I also enjoy studying mathematics in my spare time with MIT OCW lectures. I am a resolute, organized, perseverant, self-taught, and fast learner.
-<br> <br>
+<br> <hr>
 
 ## IT Knowledge 💻
 <br>
