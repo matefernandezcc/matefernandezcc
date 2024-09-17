@@ -13,8 +13,7 @@ Shell: bash 5.1.16
 Location: Buenos Aires, Argentina
 Frameworks: React, Nextjs
 Languages: Python, JavaScript, C
-           HTML, CSS
-Learning: PostgreSQL, R
+Learning: PostgreSQL, Java
 Hobbies: Math, Cooking, Gaming
 ```
 <p align="left">
