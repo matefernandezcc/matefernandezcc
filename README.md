@@ -12,8 +12,8 @@ OS: Ubuntu 22.04.4 LTS
 Shell: bash 5.1.16
 Location: Buenos Aires, Argentina
 Frameworks: React, Nextjs
-Languages: Python, JavaScript, C
-Learning: PostgreSQL, Java
+Languages: C, Python, JavaScript
+Learning: PostgreSQL, Java, Angular
 Hobbies: Math, Cooking, Gaming
 ```
 <p align="left">
@@ -33,7 +33,7 @@ I am an Information Systems Engineering student at the <a href="https://www.frba
 I love to learn new things and keep training myself in the programming field. I also enjoy studying mathematics in my spare time with MIT OCW lectures. I am a resolute, organized, perseverant, self-taught, and fast learner.
 <br> <br>
 
-## IT Knowledge 💻
+## Skills 💻
 <br>
 <p align="center">
     <img 
