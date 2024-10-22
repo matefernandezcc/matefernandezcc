@@ -37,7 +37,7 @@ I love to learn new things and keep training myself in the programming field. I 
 <br>
 <p align="center">
     <img 
-            src="https://skillicons.dev/icons?i=linux,notion,md,py,postgres,js,html,css,nodejs,react,git,github,c,cpp"
+            src="https://skillicons.dev/icons?i=linux,bash,nvim,vscode,mysql,postgres,py,java,php,nodejs,react,angular,js,html,css,tailwind,git,c,cpp,haskell,lua,md,notion,obsidian,postman,github,git"
             alt="Skills Icons"
             className="w-auto h-50"
           />
