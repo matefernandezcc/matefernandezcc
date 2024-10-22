@@ -36,20 +36,8 @@ I love to learn new things and keep training myself in the programming field. I 
 ## My tech stack 💻
 <br>
 <p align="center">
-    <p>Frontend</p>
     <img 
-            src="https://skillicons.dev/icons?i=react,angular,js,html,css,tailwind"
-            alt="Skills Frontend"
-            className="w-auto h-50"
-          />
-    <p>Backend</p>
-    <img 
-            src="https://skillicons.dev/icons?i=linux,bash,neovim,vscode,mysql,postgres,py,java,php,nodejs,react,angular,js,html,css,tailwind,git,c,cpp,haskell,lua,md,notion,obsidian,postman,github,git&perline=9"
-            alt="Skills Frontend"
-            className="w-auto h-50"
-          />
-    <img 
-            src="https://skillicons.dev/icons?i=linux,bash,neovim,vscode,mysql,postgres,py,java,php,nodejs,react,angular,js,html,css,tailwind,git,c,cpp,haskell,lua,md,notion,obsidian,postman,github,git&perline=9"
+            src="https://skillicons.dev/icons?i=linux,bash,neovim,vscode,mysql,postgres,py,java,php,nodejs,react,angular,js,html,css,tailwind,git,c,cpp,haskell,lua,md,notion,obsidian,postman,github,git"
             alt="Skills Icons"
             className="w-auto h-50"
           />
