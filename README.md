@@ -33,7 +33,7 @@ I am an Information Systems Engineering student at the <a href="https://www.frba
 I love to learn new things and keep training myself in the programming field. I also enjoy studying mathematics in my spare time with MIT OCW lectures. I am a resolute, organized, perseverant, self-taught, and fast learner.
 <br> <br>
 
-## My tech stack 💻
+## Skills 💻
 <br>
 <p align="center">
     <img 
