@@ -14,7 +14,7 @@ Location: Buenos Aires, Argentina
 Frameworks: React, Nextjs
 Languages: C, Python, JavaScript
 Learning: PostgreSQL, Java, Angular
-Hobbies: Math, Cooking, Gaming
+Hobbies: Math, Piano, Cooking
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
