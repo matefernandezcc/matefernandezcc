@@ -22,7 +22,7 @@ Hobbies: Math, Cooking, Gaming
   <img alt="#333333" src="https://placehold.co/600x400/333333/333333" width="25" height="20" />
   <img alt="#666666" src="https://placehold.co/600x400/666666/666666" width="25" height="20" />
   <img alt="#999999" src="https://placehold.co/600x400/999999/999999" width="25" height="20" />
-  <img alt="#CCCCCC" src="placehold.co/600x400/CCCCCC/CCCCCC" width="25" height="20" />
+  <img alt="#CCCCCC" src="https://placehold.co/600x400/CCCCCC/CCCCCC" width="25" height="20" />
   <img alt="#FFFFFF" src="https://placehold.co/600x400/FFFFFF/FFFFFF" width="25" height="20" />
 </p>
 <br><br>
