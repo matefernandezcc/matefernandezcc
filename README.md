@@ -8,8 +8,8 @@
 ```csharp
 matefernandezcc@github
 -------------------------
-OS: Ubuntu 22.04.4 LTS
-Shell: bash 5.1.16
+OS: Ubuntu 24.04.2 LTS
+Shell: bash 5.2.21
 Location: Buenos Aires, Argentina
 Frameworks: React, Nextjs
 Languages: C, Python, JavaScript
