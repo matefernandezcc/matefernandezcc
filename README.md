@@ -12,7 +12,7 @@ OS: Ubuntu 24.04.2 LTS
 Shell: bash 5.2.21
 Location: Buenos Aires, Argentina
 Frameworks: React & Bootstrap
-Languages: C, Python, JavaScript
+Languages: C, Python, JavaScript & Bash
 Learning: AWS, Java, Angular, Spring & sometimes Rust :)
 Hobbies: Math & Piano
 ```
