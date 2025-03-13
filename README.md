@@ -13,7 +13,7 @@ Shell: bash 5.2.21
 Location: Buenos Aires, Argentina
 Frameworks: React, Nextjs
 Languages: C, Python, JavaScript
-Learning: AWS, Java, Angular & Sprin
+Learning: AWS, Java, Angular, Spring & sometimes Rust :)
 Hobbies: Math & Piano
 ```
 <p align="left">
