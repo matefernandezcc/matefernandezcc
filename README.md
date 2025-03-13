@@ -11,7 +11,7 @@ matefernandezcc@github
 OS: Ubuntu 24.04.2 LTS
 Shell: bash 5.2.21
 Location: Buenos Aires, Argentina
-Frameworks: React, Nextjs
+Frameworks: React & Bootstrap
 Languages: C, Python, JavaScript
 Learning: AWS, Java, Angular, Spring & sometimes Rust :)
 Hobbies: Math & Piano
