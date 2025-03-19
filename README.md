@@ -9,7 +9,7 @@
 matefernandezcc@github
 -------------------------
 OS: Ubuntu 24.04.2 LTS
-Shell: bash 5.2.21
+Shell: zsh 5.9
 Location: Buenos Aires, Argentina
 Frameworks: React & Bootstrap
 Languages: C, Python, JavaScript & Bash
