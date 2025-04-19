@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<kbd> <img align="left" src="https://styles.redditmedia.com/t5_29f9pu/styles/profileIcon_0vh9tlyyjhx61.jpg" alt="Old Blue Eyes" width="320" height="320"/> </kbd>
+<img align="left" src="https://styles.redditmedia.com/t5_29f9pu/styles/profileIcon_0vh9tlyyjhx61.jpg" alt="Old Blue Eyes" width="320" height="320" style="border-radius: 10px"/>
 
 
 ```csharp
