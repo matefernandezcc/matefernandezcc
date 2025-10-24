@@ -29,9 +29,13 @@ Hobbies: Math & Piano
 <hr>
 <h1>Hi! 👋 I'm Mateo Fernandez </a></h1>
 <p>
-I am an Information Systems Engineering student at the <a href="https://www.frba.utn.edu.ar/">National Technological University of Buenos Aires - FRBA.</a><br>
-I love to learn new things and keep training myself in the programming field. I also enjoy studying mathematics in my spare time with MIT OCW lectures. I am a resolute, organized, perseverant, self-taught, and fast learner.
-<br> <br>
+I am an Information Systems Engineering student at the 
+<a href="https://www.frba.utn.edu.ar/">National Technological University of Buenos Aires - FRBA</a>.<br>
+I am passionate about technology and continuous learning, currently focused on Salesforce development and administration. 
+Through Trailhead and personal projects, I’ve gained hands-on experience with Apex, Lightning Web Components (LWC), Flows, and REST API integrations.<br>
+I also enjoy studying mathematics in my spare time with MIT OCW lectures.<br>
+I am a resolute, organized, perseverant, self-taught, and fast learner.
+</p>
 
 ## Skills 💻
 <br>
