@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://styles.redditmedia.com/t5_29f9pu/styles/profileIcon_0vh9tlyyjhx61.jpg" alt="Old Blue Eyes" width="320" height="320"/>
+<img align="left" src="https://cdn2.bigcommerce.com/server4900/364bb/products/233346/images/184809/aeeb898e-dd57-5727-8490-de03c3e1df19__94834.1620888727.1280.1280.jpg?c=2" alt="Old Blue Eyes" width="320" height="320"/>
 
 
 ```csharp
