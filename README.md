@@ -12,8 +12,8 @@ OS: Ubuntu 24.04.2 LTS
 Shell: zsh 5.9
 Location: Buenos Aires, Argentina
 Frameworks: React & Bootstrap
-Languages: C, Python, JavaScript & Bash
-Learning: AWS, Java, Angular, Spring & sometimes Rust :)
+Languages: Apex, Java, C, Python, JavaScript & Bash
+Learning: Salesforce, AWS, Spring & sometimes Rust :)
 Hobbies: Math & Piano
 ```
 <p align="left">
