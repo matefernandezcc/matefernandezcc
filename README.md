@@ -30,8 +30,10 @@ Hobbies: Weightlifting, Math & Piano
 <p>
 I am a 4th-year Information Systems Engineering student at the 
 <a href="https://www.frba.utn.edu.ar/">National Technological University of Buenos Aires - FRBA</a>.<br>
+  
 I am passionate about software architecture and continuous learning, currently focused on Salesforce development and actively preparing for the Salesforce Platform Developer I (PD1) certification.<br>
 Through personal projects, I’ve gained hands-on experience designing Event-Driven Architectures, integrating Salesforce with external systems (like Jira) using middleware such as n8n, Docker, and WSL. My technical foundation includes Apex, LWC, Flows, SQL, and REST/SOAP APIs.<br>
+
 I am a resolute, organized, and self-taught developer who loves tackling complex integration challenges. When I'm not coding, I maintain a highly structured weightlifting routine and enjoy studying mathematics.
 </p>
 
