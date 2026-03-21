@@ -42,7 +42,7 @@ I am a resolute, organized, and self-taught developer who loves tackling complex
 <br>
 <p align="center">
     <img 
-            src="https://skillicons.dev/icons?i=github,git,notion,postman,maven,aws,docker,figma,linux,bash,mysql,postgres,py,java,c,haskell,lua,php,js,html,css,tailwind,react,angular,svg,neovim,vscode,regex,md,laravel"
+            src="https://skillicons.dev/icons?i=java,py,js,c,react,angular,html,css,tailwind,svg,laravel,php,postman,maven,mysql,postgres,regex,aws,docker,linux,bash,vscode,neovim,git,github,figma,notion,haskell,lua,md"
             alt="Skills Icons"
             className="w-auto h-50"
           />
