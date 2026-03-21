@@ -4,17 +4,16 @@
 
 <img align="left" src="https://theposterdepot.com/cdn/shop/products/franksinatraposter02_af47beb7-aef9-4854-8513-a5a6bd9af019_580x.jpg?v=1493172299" alt="Old Blue Eyes" width="320" height="320"/>
 
-
 ```csharp
 matefernandezcc@github
 -------------------------
-OS: Ubuntu 24.04.2 LTS
+OS: Ubuntu 24.04 LTS (WSL)
 Shell: zsh 5.9
 Location: Buenos Aires, Argentina
-Frameworks: React & Bootstrap
-Languages: Apex, Java, C, Python, JavaScript & Bash
-Learning: Salesforce, AWS, Spring & sometimes Rust :)
-Hobbies: Math & Piano
+Tools & Frameworks: n8n, Docker, Node.js, React
+Languages: Apex, SOQL, SQL, Java, C, JavaScript & Bash
+Learning: Salesforce PD1, Event-Driven Architectures
+Hobbies: Weightlifting, Math & Piano
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -27,14 +26,13 @@ Hobbies: Math & Piano
 </p>
 <br><br>
 <hr>
-<h1>Hi! 👋 I'm Mateo Fernandez </a></h1>
+<h1>Hi! 👋 I'm Mateo Fernandez</h1>
 <p>
-I am an Information Systems Engineering student at the 
+I am a 4th-year Information Systems Engineering student at the 
 <a href="https://www.frba.utn.edu.ar/">National Technological University of Buenos Aires - FRBA</a>.<br>
-I am passionate about technology and continuous learning, currently focused on Salesforce development and administration. 
-Through Trailhead and personal projects, I’ve gained hands-on experience with Apex, Lightning Web Components (LWC), Flows, and REST API integrations.<br>
-I also enjoy studying mathematics in my spare time with MIT OCW lectures.<br>
-I am a resolute, organized, perseverant, self-taught, and fast learner.
+I am passionate about software architecture and continuous learning, currently focused on Salesforce development and actively preparing for the Salesforce Platform Developer I (PD1) certification.<br>
+Through personal projects, I’ve gained hands-on experience designing Event-Driven Architectures, integrating Salesforce with external systems (like Jira) using middleware such as n8n, Docker, and WSL. My technical foundation includes Apex, LWC, Flows, SQL, and REST/SOAP APIs.<br>
+I am a resolute, organized, and self-taught developer who loves tackling complex integration challenges. When I'm not coding, I maintain a highly structured weightlifting routine and enjoy studying mathematics.
 </p>
 
 ## Skills 💻
@@ -54,10 +52,3 @@ I am a resolute, organized, perseverant, self-taught, and fast learner.
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bnmctm3e2sppt5sr3okumjjrye&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile" width="600"/>
     </td>
     <td align="right">
-      <img src="https://leetcard.jacoblin.cool/matefernandezcc?animation=false" alt="LeetCard" width="600"/>
-    </td>
-  </tr>
-</table>
-
-
-
