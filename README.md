@@ -15,15 +15,8 @@ Location: Buenos Aires, Argentina
 Learning: Salesforce PD1, Marketing Cloud & Data Cloud
 Hobbies: Weightlifting, Math & Piano
 ```
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="#000000" src="https://placehold.co/600x400/000000/000000" width="25" height="20" />
-  <img alt="#333333" src="https://placehold.co/600x400/333333/333333" width="25" height="20" />
-  <img alt="#666666" src="https://placehold.co/600x400/666666/666666" width="25" height="20" />
-  <img alt="#999999" src="https://placehold.co/600x400/999999/999999" width="25" height="20" />
-  <img alt="#CCCCCC" src="https://placehold.co/600x400/CCCCCC/CCCCCC" width="25" height="20" />
-  <img alt="#FFFFFF" src="https://placehold.co/600x400/FFFFFF/FFFFFF" width="25" height="20" />
-</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://placehold.co/20x20/000000/000000" /> <img src="https://placehold.co/20x20/333333/333333" /> <img src="https://placehold.co/20x20/666666/666666" /> <img src="https://placehold.co/20x20/999999/999999" /> <img src="https://placehold.co/20x20/CCCCCC/CCCCCC" /> <img src="https://placehold.co/20x20/FFFFFF/FFFFFF" />
+
 <br><br>
 <hr>
 
